@@ -1,0 +1,8 @@
+{
+	"status":"0",
+	"server":"https://please.change.this",
+	"sender":"14081231234",
+	"apikey":"123456",
+	"message":"Your StackFood OTP is: #OTP#",
+	"fallback":"none"
+}
